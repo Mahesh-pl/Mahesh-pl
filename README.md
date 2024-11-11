@@ -1,3 +1,5 @@
-a = 1
-b = 2
-print(c = a+b)
+#include<iostream>
+int main(){
+std::cout<<"hello world"<<std::endl;
+return 0;
+}
